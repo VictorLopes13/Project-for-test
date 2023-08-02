@@ -86,6 +86,13 @@ function App() {
             <p>produto 4</p>
           </div>
         </nav>
+
+        <div className="header-move">
+          <p>O Recentes</p>
+          <p>Z Top</p>
+          <p>A - Z</p>
+          <p># Hashtags</p>
+        </div>
     </div>
   )
 }
